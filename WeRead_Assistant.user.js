@@ -10,7 +10,7 @@
 //filter: invert(100%) drop-shadow(0px 0px 0px #ffffff);
 
 const styleHtml = `
-img.s-pic.wr_absolute.wr_readerImage_opacity {
+body:not(.wr_whiteTheme) img.s-pic.wr_absolute.wr_readerImage_opacity {
 	filter: invert(100%) drop-shadow(0px 0px 0px #ffffff);
 }
 `;
