@@ -5,6 +5,8 @@
 // @author       若水
 // @match        https://weread.qq.com/web/reader/82132d00718b6676821fbad
 // @grant        none
+// @updateURL    https://github.com/CHIHARA61/WeRead_Assistant/raw/refs/heads/main/WeRead_Assistant.user.js
+// @downloadURL  https://github.com/CHIHARA61/WeRead_Assistant/raw/refs/heads/main/WeRead_Assistant.user.js
 // ==/UserScript==
 
 //filter: invert(100%) drop-shadow(0px 0px 0px #ffffff);
