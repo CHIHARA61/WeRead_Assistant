@@ -15,6 +15,12 @@ const styleHtml = `
 body:not(.wr_whiteTheme) img.s-pic.wr_absolute.wr_readerImage_opacity {
 	filter: invert(100%) drop-shadow(0px 0px 0px #ffffff);
 }
+.wr_horizontalReader .readerChapterContent {
+	width: 100%;
+}
+.wr_horizontalReader .wr_horizontalReader_app_content .readerTopBar {
+	width: 100%;
+}
 `;
 
 ///////////////////////////////////////////////////
