@@ -3,7 +3,7 @@
 // @version      2025-12-05
 // @description  try to take over the world!
 // @author       若水
-// @match        https://weread.qq.com/web/reader/82132d00718b6676821fbad
+// @match        https://weread.qq.com/web/reader/*
 // @grant        none
 // @updateURL    https://github.com/CHIHARA61/WeRead_Assistant/raw/refs/heads/main/WeRead_Assistant.user.js
 // @downloadURL  https://github.com/CHIHARA61/WeRead_Assistant/raw/refs/heads/main/WeRead_Assistant.user.js
