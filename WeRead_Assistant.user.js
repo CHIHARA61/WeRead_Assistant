@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         微信读书助手
-// @version      2025-12-05
+// @version      2025-12-26
 // @description  try to take over the world!
 // @author       若水
 // @match        https://weread.qq.com/web/reader/*
